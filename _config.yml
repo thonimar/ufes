@@ -1,4 +1,5 @@
 theme: minima
+remote_theme: jekyll/minima@c6e74bb
 title: Prof. Thonimar V. Alencar
 author: Thonimar V. Alencar
 description: >
