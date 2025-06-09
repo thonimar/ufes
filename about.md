@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# About This Site
-
 This is an example "About" page for your GitHub Pages site. You can use this page to introduce yourself, your project, or anything else you'd like to share with your visitors.
 
 You can write about:
