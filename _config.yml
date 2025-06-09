@@ -1,1 +1,6 @@
-
+theme: minima
+title: Prof. Thonimar V. Alencar
+author: Thonimar V. Alencar
+description: Prof. Thonimar V. Alencar.
+baseurl: "/ufes" # This is important for the URL
+url: "https://thonimar.github.io" # This is your GitHub Pages URL
