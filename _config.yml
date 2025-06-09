@@ -2,7 +2,7 @@ theme: minima
 title: Prof. Thonimar V. Alencar
 author: 
 name: Thonimar V. Alencar
-email: your-email@domain.com
+email: thonimar.souza@ufes.br
 description: This is the web page of Prof. Thonimar V. Alencar.
 baseurl: "/ufes" # This is important for the URL
 url: "https://thonimar.github.io" # This is your GitHub Pages URL
