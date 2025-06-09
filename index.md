@@ -4,8 +4,6 @@ title: Home
 permalink: /
 ---
 
-# Welcome to My GitHub Pages Site!
-
 This is an example of an `index.md` file for your Jekyll site. You can write your content here using Markdown.
 
 **Here are some things you can do with Markdown:**
