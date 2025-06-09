@@ -6,6 +6,8 @@ email: thonimar.souza@ufes.br
 description: This is the web page of Prof. Thonimar V. Alencar.
 baseurl: "/ufes" # This is important for the URL
 url: "https://thonimar.github.io" # This is your GitHub Pages URL
+plugins:
+  - jekyll-seo-tag
 minima:
   skin: classic
   social_links:
