@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Tutoriais
-permalink: /
+permalink: /tutoriais/
 ---
-
-
 Tutoriais de Física
