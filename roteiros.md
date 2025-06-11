@@ -12,4 +12,4 @@ Roteiros de Física Experimental:
 - [Interferômetro de Michelson](https://thonimar.github.io/ufes/roteiros/interferometro.pdf)
 - [Polarização da luz](https://thonimar.github.io/ufes/roteiros/polarizacao.pdf)
 - [Efeito Fotoelétrico](https://thonimar.github.io/ufes/roteiros/efeito-fotoeletrico.pdf)
-- [Interferencia Difracao](https://thonimar.github.io/ufes/roteiros/interferencia-difracao.pdf)
+- [Interferência e Difração](https://thonimar.github.io/ufes/roteiros/interferencia-difracao.pdf)
