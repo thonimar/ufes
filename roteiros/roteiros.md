@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Roteiros
-permalink: /roteiros
+permalink: /
 ---
 
-# Roteiros
+
 Roteiros de Física Experimental
 
