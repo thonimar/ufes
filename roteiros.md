@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Roteiros
-permalink: /
+permalink: /roteiros/
 ---
-
-
 Roteiros de Física Experimental
