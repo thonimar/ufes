@@ -4,16 +4,12 @@ title: Home
 permalink: /
 ---
 
-This is an example of an `index.md` file for your Jekyll site. You can write your content here using Markdown.
+Aqui você encontra links para meus perfis acadêmicos e profissionais:
 
-**Here are some things you can do with Markdown:**
+* [![UFES São Mateus Icon](https://img.icons8.com/color/16/000000/university.png)](https://cienciasnaturais.saomateus.ufes.br/) [Ciências Naturais - UFES São Mateus](https://cienciasnaturais.saomateus.ufes.br/)
+*   [![Lattes Icon](https://img.icons8.com/color/16/000000/curriculum.png)](http://lattes.cnpq.br/6095468454824366) [Currículo Lattes](http://lattes.cnpq.br/6095468454824366)
+*   [![Google Scholar Icon](https://img.icons8.com/color/16/000000/google-scholar.png)](https://scholar.google.com/citations?user=l7q4XwQAAAAJ&hl) [Google Scholar](https://scholar.google.com/citations?user=l7q4XwQAAAAJ&hl)
+*   [![ORCID Icon](https://img.icons8.com/color/16/000000/orcid.png)](https://orcid.org/0000-0001-8983-8413) [ORCID](https://orcid.org/0000-0001-8983-8413)
+*   [![Web of Science Icon](https://img.icons8.com/color/16/000000/web-of-science.png)](https://www.webofscience.com/wos/author/record/G-4109-2013) [Web of Science](https://www.webofscience.com/wos/author/record/G-4109-2013)
 
-*   Create headings using `#`
-*   Write paragraphs
-*   Use **bold** and *italic* text
-*   Create lists:
-    *   Item 1
-    *   Item 2
-*   Add links: [Google](https://www.google.com)
 
-You can customize this page with your own content and information about your project.
