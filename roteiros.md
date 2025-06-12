@@ -4,6 +4,7 @@ title: Roteiros
 permalink: /roteiros/
 ---
 **Roteiros de Física Experimental:**
+
 ---
 **Eletromagnetismo**
 - [Campo magnético da Terra](https://thonimar.github.io/ufes/roteiros/campo-magnetico-terra.pdf)
