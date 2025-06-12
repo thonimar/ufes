@@ -5,7 +5,7 @@ name: Thonimar V. Alencar
 github_username:  thonimar
 email: thonimar.souza@ufes.br
 description: >- #
-  This is the web page of Prof. Thonimar V. Alencar.
+  Página do Prof. Thonimar V. Alencar.
 baseurl: "/ufes" # This is important for the URL
 url: "https://thonimar.github.io" # This is your GitHub Pages URL
 plugins:
@@ -13,6 +13,6 @@ plugins:
 minima:
   skin: classic
   social_links:
-    - title: My repository at GitHub
+    - title: Meu repositório GitHub
       icon: github
       url: "https://github.com/thonimar/"
