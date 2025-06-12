@@ -4,25 +4,6 @@ title: Home
 permalink: /
 ---
 
-Aqui você encontra links para meus perfis acadêmicos e profissionais:
-
-* [![UFES São Mateus Icon](https://img.icons8.com/color/16/000000/university.png)](https://cienciasnaturais.saomateus.ufes.br/) [Departamento de Ciências Naturais - UFES São Mateus](https://cienciasnaturais.saomateus.ufes.br/)
-*   [![Lattes Icon](https://img.icons8.com/color/16/000000/curriculum.png)](http://lattes.cnpq.br/6095468454824366) [Currículo Lattes](http://lattes.cnpq.br/6095468454824366)
-*   [![Google Scholar Icon](https://img.icons8.com/color/16/000000/google-scholar.png)](https://scholar.google.com/citations?user=l7q4XwQAAAAJ&hl) [Google Scholar](https://scholar.google.com/citations?user=l7q4XwQAAAAJ&hl)
-*   [![ORCID Icon](https://img.icons8.com/color/16/000000/orcid.png)](https://orcid.org/0000-0001-8983-8413) [ORCID](https://orcid.org/0000-0001-8983-8413)
-*   [![Web of Science Icon](https://img.icons8.com/color/16/000000/web-of-science.png)](https://www.webofscience.com/wos/author/record/G-4109-2013) [Web of Science](https://www.webofscience.com/wos/author/record/G-4109-2013)
-
-
 **Perfis Acadêmicos e Profissionais**
-
-* [![Universidade](https://img.icons8.com/ios-glyphs/30/university.png)](https://cienciasnaturais.saomateus.ufes.br/) [Departamento de Ciências Naturais - UFES São Mateus](https://cienciasnaturais.saomateus.ufes.br/)
-* [![CV](https://img.icons8.com/ios-glyphs/30/parse-from-clipboard.png)](http://lattes.cnpq.br/6095468454824366) [Currículo Lattes](http://lattes.cnpq.br/6095468454824366)
-* [![Google Scholar](https://img.icons8.com/material-outlined/24/google-scholar.png)](https://scholar.google.com/citations?user=l7q4XwQAAAAJ&hl) [Google Scholar](https://scholar.google.com/citations?user=l7q4XwQAAAAJ&hl)
-* [![ORCID](https://img.icons8.com/windows/32/orcid.png)](https://orcid.org/0000-0001-8983-8413) [ORCID](https://orcid.org/0000-0001-8983-8413)
-* [![Research](https://img.icons8.com/ios-glyphs/30/search--v1.png)](https://www.webofscience.com/wos/author/record/G-4109-2013) [Web of Science](https://www.webofscience.com/wos/author/record/G-4109-2013)
-
-Teste
-
-[![Universidade](https://img.icons8.com/ios-glyphs/30/university.png)](https://cienciasnaturais.saomateus.ufes.br/) [![CV](https://img.icons8.com/ios-glyphs/30/parse-from-clipboard.png)](http://lattes.cnpq.br/6095468454824366) [![Google Scholar](https://img.icons8.com/material-outlined/24/google-scholar.png)](https://scholar.google.com/citations?user=l7q4XwQAAAAJ&hl) [![ORCID](https://img.icons8.com/windows/32/orcid.png)](https://orcid.org/0000-0001-8983-8413) [![Research](https://img.icons8.com/ios-glyphs/30/search--v1.png)](https://www.webofscience.com/wos/author/record/G-4109-2013)
 
 [![Universidade](https://img.icons8.com/ios-glyphs/30/university.png)](https://cienciasnaturais.saomateus.ufes.br/)&nbsp;&nbsp;&nbsp;&nbsp;[![CV](https://img.icons8.com/ios-glyphs/30/parse-from-clipboard.png)](http://lattes.cnpq.br/6095468454824366)&nbsp;&nbsp;&nbsp;&nbsp;[![Google Scholar](https://img.icons8.com/material-outlined/24/google-scholar.png)](https://scholar.google.com/citations?user=l7q4XwQAAAAJ&hl)&nbsp;&nbsp;&nbsp;&nbsp;[![ORCID](https://img.icons8.com/windows/32/orcid.png)](https://orcid.org/0000-0001-8983-8413)&nbsp;&nbsp;&nbsp;&nbsp;[![Research](https://img.icons8.com/ios-glyphs/30/search--v1.png)](https://www.webofscience.com/wos/author/record/G-4109-2013)
