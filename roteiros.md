@@ -5,7 +5,6 @@ permalink: /roteiros/
 ---
 **Roteiros de Física Experimental:**
 
----
 **Eletromagnetismo**
 - [Campo magnético da Terra](https://thonimar.github.io/ufes/roteiros/campo-magnetico-terra.pdf)
 - [Circuito RC](https://thonimar.github.io/ufes/roteiros/circuito-rc.pdf)
@@ -26,4 +25,3 @@ permalink: /roteiros/
 - [Radiação Térmica: lei de Wien](https://thonimar.github.io/ufes/roteiros/radiacao-corpo-negro.pdf)
 - [Experimento de Millikan](https://thonimar.github.io/ufes/roteiros/millikan.pdf)
 - [Efeito Fotoelétrico](https://thonimar.github.io/ufes/roteiros/efeito-fotoeletrico.pdf)
-
