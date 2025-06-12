@@ -2,7 +2,6 @@
 layout: page
 title: Roteiros
 permalink: /roteiros/
-hide_title: true
 ---
 **Roteiros de Física Experimental:**
 
