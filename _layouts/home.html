@@ -4,8 +4,33 @@ layout: base
 
 <div class="home">
 
-  {{ content }}
+  <div class="profile-section">
+    <h2>Perfis Acadêmicos e Profissionais</h2>
+    <p class="section-sub">Acesse meus perfis nas principais plataformas acadêmicas</p>
 
+    <div class="profile-links">
+      <a class="profile-link" href="https://cienciasnaturais.saomateus.ufes.br/" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/ios-glyphs/30/university.png" alt="Universidade">
+        Universidade
+      </a>
+      <a class="profile-link" href="http://lattes.cnpq.br/6095468454824366" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/ios-glyphs/30/parse-from-clipboard.png" alt="Lattes">
+        Currículo Lattes
+      </a>
+      <a class="profile-link" href="https://scholar.google.com/citations?user=l7q4XwQAAAAJ&hl" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/material-outlined/30/google-scholar.png" alt="Google Scholar">
+        Google Scholar
+      </a>
+      <a class="profile-link" href="https://orcid.org/0000-0001-8983-8413" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/windows/30/orcid.png" alt="ORCID">
+        ORCID
+      </a>
+      <a class="profile-link" href="https://www.webofscience.com/wos/author/record/G-4109-2013" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/ios-glyphs/30/search--v1.png" alt="Web of Science">
+        Web of Science
+      </a>
+    </div>
+  </div>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -13,17 +38,14 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
-
   {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Publicações e Materiais" }}</h2>
     <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- assign date_format = site.minima.date_format | default: "%d %b %Y" -%}
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h3 style="margin: 0.2rem 0 0;">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
@@ -40,7 +62,7 @@ layout: base
         <ul class="pagination">
         {%- if paginator.previous_page %}
           <li>
-            <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page" title="Go to Page {{ paginator.previous_page }}">
+            <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">
               {{ paginator.previous_page }}
             </a>
           </li>
@@ -50,7 +72,7 @@ layout: base
           <li><div class="current-page">{{ paginator.page }}</div></li>
         {%- if paginator.next_page %}
           <li>
-            <a href="{{ paginator.next_page_path | relative_url }}" class="next-page" title="Go to Page {{ paginator.next_page }}">
+            <a href="{{ paginator.next_page_path | relative_url }}" class="next-page">
               {{ paginator.next_page }}
             </a>
           </li>
@@ -61,4 +83,5 @@ layout: base
       </div>
     {%- endif %}
   {%- endif -%}
+
 </div>
