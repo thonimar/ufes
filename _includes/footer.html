@@ -1,40 +1,25 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name" style="color: #fff; font-family: 'Playfair Display', serif; font-size: 0.95rem;">
-            {%- if site.author.name -%}
-              {{ site.author.name | escape }}
-            {%- elsif site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
+            {{ site.author.name | default: site.author | escape }}
           </li>
           {%- if site.email -%}
           <li>
             <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
           </li>
           {%- endif -%}
-          <li>Universidade Federal do Espírito Santo</li>
-          <li>São Mateus — ES, Brasil</li>
         </ul>
       </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
       <div class="footer-col footer-col-3" style="text-align: right;">
         <p style="margin: 0;">{{- site.description | escape -}}</p>
         <p style="margin: 0.5rem 0 0; font-size: 0.75rem; opacity: 0.4;">
-          © {{ 'now' | date: "%Y" }} · Todos os direitos reservados
+          © 2025 · Todos os direitos reservados
         </p>
       </div>
     </div>
   </div>
-
 </footer>
