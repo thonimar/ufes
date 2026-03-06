@@ -1,22 +1,20 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+<footer class="site-footer">
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name" style="color: #fff; font-family: 'Playfair Display', serif; font-size: 0.95rem;">
-            {{ site.author.name | default: site.author | escape }}
-          </li>
           {%- if site.email -%}
           <li>
             <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
           </li>
           {%- endif -%}
+          <li>
+            <a href="https://github.com/thonimar/" target="_blank" rel="noopener">GitHub</a>
+          </li>
         </ul>
       </div>
       <div class="footer-col footer-col-3" style="text-align: right;">
-        <p style="margin: 0;">{{- site.description | escape -}}</p>
-        <p style="margin: 0.5rem 0 0; font-size: 0.75rem; opacity: 0.4;">
+        <p style="margin: 0; font-size: 0.75rem; opacity: 0.4;">
           © 2025 · Todos os direitos reservados
         </p>
       </div>
