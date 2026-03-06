@@ -1,18 +1,22 @@
 theme: minima
-title: 
-author: 
-name: Thonimar V. Alencar
-github_username:  thonimar
+title: Prof. Thonimar V. Alencar
+author:
+  name: Thonimar V. Alencar
+github_username: thonimar
 email: thonimar.souza@ufes.br
-description: >- #
-  Página do Prof. Thonimar V. Alencar.
-baseurl: "/ufes" # This is important for the URL
-url: "https://thonimar.github.io" # This is your GitHub Pages URL
+description: >-
+  Professor de Física — Universidade Federal do Espírito Santo (UFES), São Mateus.
+  Pesquisador nas áreas de física e ciências naturais. Página do Prof. Thonimar V. Alencar.
+baseurl: "/ufes"
+url: "https://thonimar.github.io"
 plugins:
   - jekyll-seo-tag
 minima:
   skin: classic
   social_links:
-    - title: Meu repositório GitHub
+    - title: GitHub
       icon: github
       url: "https://github.com/thonimar/"
+    - title: E-mail
+      icon: email
+      url: "mailto:thonimar.souza@ufes.br"
