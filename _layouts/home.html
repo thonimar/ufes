@@ -38,25 +38,6 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
-  {%- if posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Publicações e Materiais" }}</h2>
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%d %b %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3 style="margin: 0.2rem 0 0;">
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.minima.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
     {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
