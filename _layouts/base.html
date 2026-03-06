@@ -296,6 +296,7 @@
     </div>
     {% endif %}
 
+    
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
@@ -303,6 +304,37 @@
     </main>
 
     {%- include footer.html -%}
+
+    <script>
+      const translations = {
+        pt: {
+          btn: "EN",
+          sectionTitle: "Perfis Acadêmicos e Profissionais",
+          sectionSub: "Acesse meus perfis nas principais plataformas acadêmicas",
+          heroLabel: "UFES — São Mateus",
+          heroSub: "Departamento de Ciências Naturais · Física",
+        },
+        en: {
+          btn: "PT",
+          sectionTitle: "Academic & Professional Profiles",
+          sectionSub: "Access my profiles on the main academic platforms",
+          heroLabel: "UFES — São Mateus, Brazil",
+          heroSub: "Department of Natural Sciences · Physics",
+        }
+      };
+
+      let currentLang = "pt";
+
+      function toggleLang() {
+        currentLang = currentLang === "pt" ? "en" : "pt";
+        const t = translations[currentLang];
+        document.getElementById("lang-btn").textContent = t.btn;
+        document.querySelector(".hero-label").textContent = t.heroLabel;
+        document.querySelector(".hero-subtitle").textContent = t.heroSub;
+        document.querySelector(".profile-section h2").textContent = t.sectionTitle;
+        document.querySelector(".section-sub").textContent = t.sectionSub;
+      }
+    </script>
 
   </body>
 
